@@ -1,0 +1,13 @@
+name: ClansInstitution
+main: ClansInstitution\Main
+api: 5.0.0
+version: 1.0.0
+author: OPT1MUS7927
+website: vk.com/seriksworld.fun
+commands:
+  clan:
+    description: clan managment
+    permission: clan.use
+permissions:  
+  clan.use:
+    default: true
